@@ -1,4 +1,4 @@
-# "The BABKY" project
+# "The Wallet App" project
 
 This project was made with help of
 [Create React App](https://github.com/facebook/create-react-app). 
@@ -28,7 +28,7 @@ Available everywhere inside the app!
 P.S. I like those cube
 ![Cube](https://user-images.githubusercontent.com/113587563/216194493-404e72ee-1097-472c-99c5-021b08fd2305.png)
 
-# Submit your spendings to the "BABKY" and live your life like...*rhyme
+# Submit your spendings to the "Wallet" and live your life like...*rhyme
 
 With best whishes,
 The BABKY team! 
